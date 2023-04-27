@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCLog 05 - verifikasi locked akun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d244bd97-3780-4562-b9e4-f39605dd4c75</testCaseGuid>
+</TestCaseEntity>
