@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BuyProduct,,,,2023-04-27 23:04:49,2023-04-27 23:07:13,2m - 24.445s,FAILED
+,,,,,,,
+Test Cases/Buy Product/TCBuy 01 - melakukan pembelian sebelum login,,,,2023-04-27 23:04:49,2023-04-27 23:06:00,1m - 10.867s,FAILED
+"startApplication(""C:\Users\LENOVO\Downloads\Android-MyDemoAppRN.1.2.0.build-231.apk"", true)",,,,2023-04-27 23:04:50,2023-04-27 23:05:26,36.107s,PASSED
+"tap(findTestObject(""Object Repository/Buy Product/TCBuy 01 - melakukan pembelian sebelum login akun/android.widget.ImageView""), 0)",,,,2023-04-27 23:05:26,2023-04-27 23:05:29,2.526s,PASSED
+"tap(findTestObject(""Object Repository/Buy Product/TCBuy 01 - melakukan pembelian sebelum login akun/android.widget.TextView - Add To Cart""), 0)",,,,2023-04-27 23:05:29,2023-04-27 23:06:00,31.435s,FAILED
+,,,,,,,
+Test Cases/Buy Product/TCBuy 02 - melakukan pembelian setelah login,,,,2023-04-27 23:06:00,2023-04-27 23:07:13,1m - 12.972s,FAILED
+"startApplication(""C:\Users\LENOVO\Downloads\Android-MyDemoAppRN.1.2.0.build-231.apk"", true)",,,,2023-04-27 23:06:02,2023-04-27 23:06:42,40.658s,PASSED
+"tap(findTestObject(""Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (6)""), 0)",,,,2023-04-27 23:06:42,2023-04-27 23:07:13,31.148s,FAILED
