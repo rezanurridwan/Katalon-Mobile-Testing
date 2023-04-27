@@ -19,24 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\LENOVO\\Downloads\\Android-MyDemoAppRN.1.2.0.build-231.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.ImageView'), 0)
+Mobile.tap(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.ImageView (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.TextView - Log In'), 0)
+Mobile.tap(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.TextView - Log In (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.EditText'), 0)
+Mobile.tap(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.EditText (1)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun/android.widget.EditText (1)'), 
-    'alice@example.com', 0)
+Mobile.setText(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.EditText (4)'), 'alice.example.com', 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.EditText (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.EditText (5)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.EditText (3)'), 0)
+Mobile.setText(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.EditText (6)'), '10203040', 
+    0)
 
-Mobile.setText(findTestObject('TCLog 05 - verifikasi locked akun/android.widget.EditText (3)'), '10203040', 0)
+Mobile.tap(findTestObject('Object Repository/Login/TCLog 05 - verifikasi locked akun (1)/android.widget.TextView - Login (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/TCLog 05 - verifikasi locked akun/android.widget.TextView - Login'), 0)
-
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot1909734071669509484.png')
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot7336332685387105823.png')
 
 Mobile.closeApplication()
 
