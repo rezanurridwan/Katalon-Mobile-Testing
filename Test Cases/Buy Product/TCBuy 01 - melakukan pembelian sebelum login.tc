@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCBuy 01 - melakukan pembelian sebelum login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>102859e9-ac37-4610-a55e-2572847921f5</testCaseGuid>
+</TestCaseEntity>
