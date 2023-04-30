@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Login/TCLog 01 - username dan password null","testCaseId":"Test Cases/Login/TCLog 01 - username dan password null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TCLog 02 - username null password valid","testCaseId":"Test Cases/Login/TCLog 02 - username null password valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TCLog 03 - username valid password null","testCaseId":"Test Cases/Login/TCLog 03 - username valid password null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TCLog 04 - username dan password valid","testCaseId":"Test Cases/Login/TCLog 04 - username dan password valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TCLog 05 - verifikasi locked akun","testCaseId":"Test Cases/Login/TCLog 05 - verifikasi locked akun","iterationVariableName":""}

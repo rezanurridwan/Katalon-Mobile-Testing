@@ -40,7 +40,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>baebb974-637f-43f4-a3ec-4e2f89fd6d37</guid>
+      <guid>527a0f32-371a-4f43-8083-4da88c719761</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login/TCLog 05 - verifikasi locked akun</testCaseId>

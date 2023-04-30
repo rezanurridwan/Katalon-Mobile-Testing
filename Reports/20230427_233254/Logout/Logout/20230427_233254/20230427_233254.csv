@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Logout,,Test Suites for logout,,2023-04-27 23:33:06,2023-04-27 23:33:58,51.817s,FAILED
+,,,,,,,
+Test Cases/Logout/TCLogout 01 - logout akun,,,,2023-04-27 23:33:07,2023-04-27 23:33:58,50.971s,FAILED
+"startApplication(""C:\Users\LENOVO\Downloads\Android-MyDemoAppRN.1.2.0.build-231.apk"", true)",,,,2023-04-27 23:33:08,2023-04-27 23:33:43,34.251s,PASSED
+"takeScreenshot(""C:\Users\LENOVO\AppData\Local\Temp\screenshot6888829895874889940.png"")",,,,2023-04-27 23:33:43,2023-04-27 23:33:45,2.369s,PASSED
+"tap(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.ImageView (2)""), 0)",,,,2023-04-27 23:33:45,2023-04-27 23:33:46,0.998s,PASSED
+"tap(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.TextView - Log In (2)""), 0)",,,,2023-04-27 23:33:46,2023-04-27 23:33:48,2.404s,PASSED
+"tap(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.EditText (8)""), 0)",,,,2023-04-27 23:33:48,2023-04-27 23:33:50,1.894s,PASSED
+"setText(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.EditText (9)""), ""bob@example.com"", 0)",,,,2023-04-27 23:33:50,2023-04-27 23:33:53,2.300s,PASSED
+"tap(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.EditText (10)""), 0)",,,,2023-04-27 23:33:53,2023-04-27 23:33:53,0.838s,PASSED
+"setText(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.EditText (11)""), ""10203040"", 0)",,,,2023-04-27 23:33:53,2023-04-27 23:33:55,1.424s,PASSED
+"tap(findTestObject(""Object Repository/Login/TCLog 04 - username dan password valid/android.widget.TextView - Login""), 0)",,,,2023-04-27 23:33:55,2023-04-27 23:33:56,0.817s,PASSED
+"tap(findTestObject(""""), 0)",,,,2023-04-27 23:33:56,2023-04-27 23:33:58,2.435s,FAILED
