@@ -19,128 +19,138 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\LENOVO\\Downloads\\Android-MyDemoAppRN.1.2.0.build-231.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (6)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (12)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Log In (2)'), 
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot2079243346328660257.png')
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Add To Cart (4)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (8)'), 
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot6917725193364531687.png')
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (13)'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (9)'), 
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot4974390665576059544.png')
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Proceed To Checkout (4)'), 
+    0)
+
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot8276235849715413682.png')
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (16)'), 
+    0)
+
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (17)'), 
     'bob@example.com', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (10)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (18)'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (11)'), 
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText (19)'), 
     '10203040', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Login (2)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Login (4)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (7)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - United Kingdom (8)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Add To Cart (2)'), 
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - United Kingdom (9)'), 
+    'UK', 0)
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 89750 (8)'), 
     0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot7050360574550931426.png')
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 89750 (9)'), 
+    '12345', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.ImageView (8)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Cornwall (8)'), 
     0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot6128377647016114459.png')
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Proceed To Checkout (2)'), 
-    0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (10)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (11)'), 
-    'akabr', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Mandorley 112 (6)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Mandorley 112 (7)'), 
-    'marolin 1', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Entrance 1 (3)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Entrance 1 (4)'), 
-    'marolin 2', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Truro (4)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Truro (5)'), 
-    'Uilo', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 89750 (4)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 89750 (5)'), 
-    '44418', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Cornwall (4)'), 
-    0)
-
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Cornwall (5)'), 
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Cornwall (9)'), 
     'LA', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - United Kingdom (4)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Truro (8)'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - United Kingdom (5)'), 
-    'USA', 0)
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Truro (9)'), 
+    'Chaniago', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - To Payment (3)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Entrance 1 (7)'), 
     0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot812451138029020859.png')
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Entrance 1 (8)'), 
+    'Klaring 2', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (12)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Mandorley 112 (10)'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (13)'), 
-    'akbar', 0)
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Mandorley 112 (11)'), 
+    'Klaring1', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 3258 1265 7568 789 (4)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Address Line 2'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 3258 1265 7568 789 (5)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (18)'), 
+    0)
+
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (19)'), 
+    'Ali Haidar', 0)
+
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot381281530028649305.png')
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.view.ViewGroup (12)'), 
+    0)
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (20)'), 
+    0)
+
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - Rebecca Winter (21)'), 
+    'Ali Haidar', 0)
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Full Name'), 
+    0)
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 3258 1265 7568 789 (8)'), 
+    0)
+
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 3258 1265 7568 789 (9)'), 
     '325812657568789', 0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 0325 (4)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Card Number'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 0325 (5)'), 
-    '08/23', 0)
-
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 123 (4)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 0325 (8)'), 
     0)
 
-Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 123 (5)'), 
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 0325 (9)'), 
+    '12/12', 0)
+
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 123 (8)'), 
+    0)
+
+Mobile.setText(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.EditText - 123 (9)'), 
     '123', 0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot8392159550702073785.png')
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot7296646954907086262.png')
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Review Order (2)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Expiration Date (1)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.view.ViewGroup (4)'), 
+Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.view.ViewGroup (14)'), 
     0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot1072869724074326450.png')
+Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot8433371663742067024.png')
 
-Mobile.tap(findTestObject('Object Repository/Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.view.ViewGroup (5)'), 
+Mobile.tap(findTestObject('Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Review Order (2)'), 
     0)
 
-Mobile.takeScreenshot('C:\\Users\\LENOVO\\AppData\\Local\\Temp\\screenshot3135360181106546961.png')
+Mobile.takeScreenshot('', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.closeApplication()
+Mobile.tap(findTestObject('Buy Product/TCBuy 02 - melakukan pembelian setelah login/android.widget.TextView - Place Order (1)'), 
+    0)
+
+Mobile.takeScreenshot('', FailureHandling.STOP_ON_FAILURE)
 
